@@ -16,6 +16,18 @@ function App() {
         setCounter(counter)
     }
 
+        // setCounter(counter + 1)
+        // setCounter(counter + 1)
+        // setCounter(counter + 1)
+        // setCounter(counter + 1)
+
+        // setCounter((s) => s + 1)
+        // setCounter((s) => s + 1)
+        // setCounter((s) => s + 1)
+        // setCounter((s) => s + 1)
+
+
+
     // console.log(counter)
   console.log("clicked")
 }
